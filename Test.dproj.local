@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.098,=C:\Users\moto4\OneDrive\문서\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.521,=C:\Users\moto4\OneDrive\문서\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.535,=C:\Users\moto4\OneDrive\문서\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.807,C:\Users\moto4\OneDrive\문서\Embarcadero\Studio\Projects\Unit1.dfm=D:\Dev\Delph\데브기어 교육\기초강화\utest1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.537,=C:\Users\moto4\OneDrive\문서\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.629,D:\Dev\Delph\데브기어 교육\기초강화\Unit1.pas=D:\Dev\Delph\데브기어 교육\기초강화\utest4.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.309,=D:\Dev\Delph\데브기어 교육\기초강화\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.807,C:\Users\moto4\OneDrive\문서\Embarcadero\Studio\Projects\Unit1.pas=D:\Dev\Delph\데브기어 교육\기초강화\utest1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.125,=C:\Users\moto4\OneDrive\문서\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.471,C:\Users\moto4\OneDrive\문서\Embarcadero\Studio\Projects\Project1.dproj=D:\Dev\Delph\데브기어 교육\기초강화\Test.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.711,D:\Dev\Delph\데브기어 교육\기초강화\Unit3.dfm=D:\Dev\Delph\데브기어 교육\기초강화\utest3.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.711,D:\Dev\Delph\데브기어 교육\기초강화\Unit3.pas=D:\Dev\Delph\데브기어 교육\기초강화\utest3.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.254,=D:\Dev\Delph\데브기어 교육\기초강화\Unit3.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.565,D:\Dev\Delph\데브기어 교육\기초강화\Unit2.dfm=D:\Dev\Delph\데브기어 교육\기초강화\utest2.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.874,=D:\Dev\Delph\데브기어 교육\기초강화\utest3.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.523,D:\Dev\Delph\데브기어 교육\기초강화\Test.dproj=D:\Dev\Delph\데브기어 교육\기초강화\Test.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.565,D:\Dev\Delph\데브기어 교육\기초강화\Unit2.pas=D:\Dev\Delph\데브기어 교육\기초강화\utest2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.653,=D:\Dev\Delph\데브기어 교육\기초강화\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.435,D:\Dev\Delph\데브기어 교육\기초강화\utest3.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
